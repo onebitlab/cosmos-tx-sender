@@ -38,8 +38,8 @@ cd cosmos-tx-sender
 ```ini
 # config.env
 
-BINARY=umeed                         # Name of the binary (must be in PATH)
-LOG=txs.log                          # Log file name
+BINARY=umeed                        # Name of the binary (must be in PATH)
+LOG=txs.log                         # Log file name
 PWD=your_wallet_password            # Wallet password
 TX_COUNT=10                         # Number of transactions to send
 FROM_WALLET_ADDRESS=umee1...        # Sender wallet address
